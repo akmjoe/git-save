@@ -1,10 +1,6 @@
-# Git Create
+# Git Save
 
-Git plugin script to initialize a directory with readme.md and a license.
-
-## Getting Started
-
-
+Git plugin script to diff, commit and push origin master all in one command.
 
 ### Prerequisites
 
